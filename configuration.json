@@ -1,0 +1,9 @@
+{
+    "app_name": "KotlinApp",
+    "version": "1.0.0",
+    "author": "YourName",
+    "description": "A Kotlin app created by GitHub App Maker",
+    "entry_point": "Main.kt",
+    "language": "Kotlin",
+    "output_type": ".apk"
+}
