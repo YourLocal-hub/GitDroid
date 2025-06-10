@@ -1,4 +1,4 @@
-# GitHub Kotlin App Maker
+# GitDroid
 
 This is a simple Kotlin App Maker that sets up the basic structure of a Kotlin project.
 
